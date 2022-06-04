@@ -1,0 +1,27 @@
+[
+  {
+    "nom":"Douae",
+    "age":22,
+    "filiere":"TDI"
+  },
+  {
+    "nom":"El Ayyachi",
+    "age":24,
+    "filiere":"TDI"
+  },
+  {
+    "nom":"Abdellah",
+    "age":19,
+    "filiere":"TDI"
+  },
+  {
+    "nom":"Hafssa",
+    "age":21,
+    "filiere":"TDI"
+  },
+  {
+    "nom":"Marouan",
+    "age":20,
+    "filiere":"TDI"
+  }
+]
